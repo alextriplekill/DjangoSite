@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84257718-b7c1-4255-a51f-e834cedab2e6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/DjangoSite/settings.py" afterPath="$PROJECT_DIR$/DjangoSite/settings.py" />
-    </list>
+    <list default="true" id="84257718-b7c1-4255-a51f-e834cedab2e6" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/DjangoSite/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-635">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,6 +83,11 @@
             <path>
               <item name="DjangoSite" type="b2602c69:ProjectViewProjectNode" />
               <item name="DjangoSite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DjangoSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DjangoSite" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DjangoSite" type="b2602c69:ProjectViewProjectNode" />
@@ -214,7 +216,7 @@
     <entry file="file://$PROJECT_DIR$/DjangoSite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-635">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
